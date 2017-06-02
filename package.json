@@ -1,0 +1,17 @@
+{
+  "name": "zerokit-node-client",
+  "version": "4.0.0",
+  "description": "A Node.js client sdk that you can use to do server side processing on user encrypted data",
+  "main": "nodeSdk.js",
+  "keywords": [
+    "ZeroKit",
+    "encryption",
+    "end-to-end",
+    "zeroknowledge"
+  ],
+  "author": "Tresorit",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "request-promise-native": "^1.0.4"
+  }
+}
