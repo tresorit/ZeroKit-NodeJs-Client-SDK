@@ -156,7 +156,8 @@ module.exports = function(serviceUrl, version, verboseLogging) {
       keys: function () {
         return sessionStorage.keys();
       }
-    }
+    },
+    Uint8Array
   });
 
   zkitContext.self = zkitContext;

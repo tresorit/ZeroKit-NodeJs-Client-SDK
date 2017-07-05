@@ -12,6 +12,7 @@
   "author": "Tresorit",
   "license": "BSD-3-Clause",
   "dependencies": {
+    "request": "^2.81.0",
     "request-promise-native": "^1.0.4"
   }
 }
