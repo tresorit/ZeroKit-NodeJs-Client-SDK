@@ -1,3 +1,5 @@
+**Notice:** This project is discontinued and no longer maintained nor supported by Tresorit. This repository only exists for archival purposes.
+***
 # ZeroKit Node.js SDK 
 This is the Node.js of [ZeroKit](https://tresorit.com/zerokit), that lets you encrypt and decrypt data for server side processing.
  
